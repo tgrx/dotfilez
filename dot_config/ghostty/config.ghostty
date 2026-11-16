@@ -1,0 +1,15 @@
+auto-update = "off"
+background-opacity = 1
+cursor-color = "FF0099"
+cursor-style = "block_hollow"
+font-family = "FiraCode-Retina"
+font-family-italic = "Iosevka-Term-Curly-Italic"
+font-size = 14
+macos-titlebar-style = "tabs"
+scrollback-limit = 10000
+split-inherit-working-directory = true
+tab-inherit-working-directory = true
+theme = "light:Karma Light,dark:Karma Dark"
+window-save-state = "always"
+window-show-tab-bar = "always"
+
