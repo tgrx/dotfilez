@@ -9,6 +9,6 @@ cask "netnewswire"
 cask "obsidian"
 cask "telegram"
 cask "vlc"
-mas "Numbers", id: 409203825
+mas "Numbers", id: 361304891
 mas "Pages", id: 361309726
 mas "Pixelmator Pro", id: 1289583905
