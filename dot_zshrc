@@ -106,6 +106,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias bububu='brew update && brew upgrade && (brew list --casks | xargs brew upgrade)'
 alias dc='docker compose'
 alias l='lsd -la'
 alias tmx='tmux -2 attach || tmux -2 new'
