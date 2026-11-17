@@ -16,5 +16,4 @@ cask "orbstack"
 cask "tableplus"
 cask "ungoogled-chromium"
 cask "visual-studio-code"
-cask "wezterm"
 mas "Flow", id: 1423210932
