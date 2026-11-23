@@ -24,6 +24,7 @@ cask "gpg-suite-no-mail"
 cask "keka"
 cask "mullvad-vpn"
 cask "onyx"
+cask "stats"
 cask "sublime-text"
 cask "telegram"
 
